@@ -10,7 +10,7 @@ Aim Tracker Game es un juego diseñado para mejorar tus habilidades de puntería
 - **Accesible desde cualquier dispositivo**: Juega desde tu computadora, tablet o teléfono móvil.
 - **Puntaje**:
   - Clickear un objetivo te sumará 5 puntos
-  - Si el tiempo de vida de un objetivo termina antes del click, se t restan 2 puntos
+  - Si el tiempo de vida de un objetivo termina antes del click, se te restan 2 puntos
 - **Desafíos de puntería**: Clickea todos los objetivos que puedas y logra un máximo puntaje!
 
 Podes probar el juego en el siguiente enlace: [The Aim Tracker Game](https://aimtrackergame-aluna.netlify.app/)
