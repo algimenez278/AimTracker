@@ -1,0 +1,63 @@
+body {
+    position: relative;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+}
+
+.game {
+    cursor: url('mira.png') 30 24, auto;
+    position: relative;
+    height: 400px;
+    width: 100%;
+    border: 1px solid #fff;
+}
+
+.circle {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    border-radius: 50%;
+    cursor: pointer;
+    cursor: url('mira.png') 30 24, auto;
+}
+
+button{
+    background-color: inherit;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 700;
+    height: 100%;
+    outline: none;
+    border: none;
+    transition: all 0.4s;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif 
+}
+
+button:hover{
+    color: white;
+    background: yellowgreen
+}
+
+#h1 {
+    text-align: center; 
+    color: red; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+#stripe {
+    background-color: white;
+    height: 30px;
+    text-align: center;
+    border-radius: 4px;
+}
+
+#message{
+    display: inline-block;
+    width: 15%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black; 
+}
